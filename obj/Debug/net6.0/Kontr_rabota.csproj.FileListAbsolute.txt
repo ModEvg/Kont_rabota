@@ -1,0 +1,15 @@
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\bin\Debug\net6.0\Kontr_rabota.exe
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\bin\Debug\net6.0\Kontr_rabota.deps.json
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\bin\Debug\net6.0\Kontr_rabota.runtimeconfig.json
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\bin\Debug\net6.0\Kontr_rabota.dll
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\bin\Debug\net6.0\Kontr_rabota.pdb
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\Kontr_rabota.csproj.AssemblyReference.cache
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\Kontr_rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\Kontr_rabota.AssemblyInfoInputs.cache
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\Kontr_rabota.AssemblyInfo.cs
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\Kontr_rabota.csproj.CoreCompileInputs.cache
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\Kontr_rabota.dll
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\refint\Kontr_rabota.dll
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\Kontr_rabota.pdb
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\Kontr_rabota.genruntimeconfig.cache
+C:\Документы\Обучение Женя\GIT\Kontr_rabota\obj\Debug\net6.0\ref\Kontr_rabota.dll

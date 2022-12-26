@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kontr_rabota/1.0.0": {
+        "runtime": {
+          "Kontr_rabota.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kontr_rabota/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
